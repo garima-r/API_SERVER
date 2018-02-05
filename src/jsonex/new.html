@@ -1,0 +1,35 @@
+<!DOCTYPE>
+<html>
+<head>
+<script type="text/javascript">
+	
+	<!--
+	function makejson(form){
+		var json={
+			"firstname": form.email_id.value,
+			"PASSWORD": form.password.value
+		};
+		var jobj=JSON.stringify(json);
+
+		var url = "http://localhost:8083/encode?data=" +jobj;
+		document.getElementById('output').innerHTML=jobj;
+		return false;
+	};
+	//-->
+</script>
+</head>
+<body>
+<form  onsubmit="return makejson(this);">
+		<label> Email-Id : </label>
+		<input type="text" name="email_id" value="USERNAME"><br/><br/>
+
+		<label> Password : </label>
+		<input type="password" name="password" value="PASSWORD"><br/><br/>
+	
+		<button type="submit"  value="LOGIN"> LOGIN </button>
+	</form>
+	<pre id="output">
+
+</pre>
+</body>
+</html>
