@@ -14,9 +14,9 @@ The above application have following features:
 
 -> User Profile Update : First Name, Last Name, Date of Birth
 
--> User should be able to see his /her profile details.
+-> User should be able to see their profile details.
 
 -> Send email to registered user on successful registration.
 
--> Send weekly reminder to those users, who have signed up but not activated his/her account.
+-> Send weekly reminder to those users, who have signed up but not activated their account.
 
