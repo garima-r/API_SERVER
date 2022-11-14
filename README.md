@@ -1,6 +1,6 @@
 # API_SERVER
 
-Created an Api server in Golang which does user signup, login, and profile update. Used mysql as database.
+Created an Api Server in Golang which does user signup, login, and profile update. Used mysql as database.
 
 The above application have following features:
 
