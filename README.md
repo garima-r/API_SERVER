@@ -8,8 +8,8 @@ The above application have following features:
 -> Stored passwords should be hashed.
 -> User Login
 -> User Profile Update
--> Update User First Name, Last Name, Date of Birth
--> User should be able to see his /her profile details
+-> User should be able to Update First Name, Last Name, Date of Birth.
+-> User should be able to see his /her profile details.
 -> Send email to registered user on successful registration.
 -> Send weekly reminder to those users, who have signed up but not activated his/her account.
 
